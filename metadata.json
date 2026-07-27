@@ -1,0 +1,10 @@
+{
+  "name": "RetroCRT-Weather",
+  "description": "A weather dashboard that displays real-time weather data wrapped in a nostalgic retro CRT monitor terminal aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
